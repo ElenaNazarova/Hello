@@ -1,4 +1,4 @@
 # Hello
 project(hello_world)
-add_executable(hello main.cpp)
+add_executable(hello sources/main.cpp)
 
