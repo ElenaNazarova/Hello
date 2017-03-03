@@ -1,7 +1,7 @@
-# Hello
+//Hello
 #include <iostream>
 int main () 
 {
-  stdd::cout <<"Hello";
+  std::cout <<"Hello";
   return 0;
 }
